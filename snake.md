@@ -1,9 +1,3 @@
-Here is a simple flow chart:
+自機を全部リスト内部に保存しておいて、移動時に餌を食えなければlistをpop()してheadの位置をlist.insert(head)が丸いか
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+一旦Rustとかkotlinで試し書きしてみるのが良さそう
